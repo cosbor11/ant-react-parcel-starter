@@ -1,7 +1,7 @@
 {
-  "name": "onyx-database-website",
+  "name": "ant-react-parcel-started",
   "version": "1.0.0",
-  "description": "Onyx Database",
+  "description": "Ant Design with Parcel Starter",
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html --open"
