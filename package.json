@@ -11,15 +11,21 @@
   "devDependencies": {
     "@babel/core": "^7.4.3",
     "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@types/react-router": "^5.0.0",
     "babel": "^6.23.0",
     "babel-plugin-import": "^1.11.0",
     "less": "^2.7.3",
     "parcel": "^1.12.3",
+    "parcel-plugin-prerender": "^1.4.1",
     "typescript": "^3.4.5"
   },
   "dependencies": {
+    "@types/react-helmet": "^5.0.8",
     "antd": "^3.16.5",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1",
+    "react-loadable": "^5.5.0",
+    "react-router-dom": "^5.0.0"
   }
 }
